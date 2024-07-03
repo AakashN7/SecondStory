@@ -7,7 +7,7 @@ public class Constant {
      */
 
     // Edit WEB_URL with your url. Make sure you have backslash('/') in the end url
-    public static String WEB_URL = "https://763d-125-99-242-21.ngrok-free.app/admin_project/";
+    public static String WEB_URL = "https://08b8-125-99-242-21.ngrok-free.app/admin_project/";
 
     /* [ IMPORTANT ] be careful when edit this security code */
     /* This string must be same with security code at Server, if its different android unable to submit order */
